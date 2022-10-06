@@ -1,4 +1,4 @@
-# DS_Forecasting_Project
+# DS_Wind_Forecast
 
-### Project for September/October
+### Project for October
 TBD
