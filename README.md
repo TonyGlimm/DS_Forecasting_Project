@@ -1,4 +1,5 @@
 # DS_Wind_Forecast
 
-### Project for October
-TBD
+### 
+
+Tried out the ARIMA for the first time to predict wind energy production
